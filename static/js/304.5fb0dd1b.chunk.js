@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[304],{304:function(e,p,a){e.exports=a.p+"static/media/CNCLathe.f5376e0e79a6a7d04f06.jpg"}}]);
