@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8573],{8573:function(e,p,a){e.exports=a.p+"static/media/Drill.2613de59e966cbe29a3a.jpg"}}]);

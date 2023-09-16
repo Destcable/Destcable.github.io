@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[3862],{3862:function(e,p,a){e.exports=a.p+"static/media/GrooveCutter.1a287666311b401a69e0.jpg"}}]);

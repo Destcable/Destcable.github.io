@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[1610],{1610:function(p,e,s){p.exports=s.p+"static/media/VernierDepth.b9fc579625f4028f4419.jpg"}}]);

@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[7893],{7893:function(p,a,e){p.exports=e.p+"static/media/MicrometricBore.c57aa756b45825d0d86a.jpg"}}]);

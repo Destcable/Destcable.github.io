@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[6236],{6236:function(p,a,e){p.exports=e.p+"static/media/LatheRotary.90c8f88bb29476085cb0.jpg"}}]);

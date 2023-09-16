@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[5622],{5622:function(e,a,p){e.exports=p.p+"static/media/Centra.ad893949ae62ea5b2ef9.jpg"}}]);

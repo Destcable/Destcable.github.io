@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[641],{7641:function(e,p,s){e.exports=s.p+"static/media/TurningRevolver.4391ddbf83d6f1476de8.jpg"}}]);

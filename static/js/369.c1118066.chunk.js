@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[369],{369:function(p,e,c){p.exports=c.p+"static/media/MicrometricDepth.69059d7f0f4ca3f961b1.jpg"}}]);

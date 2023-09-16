@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[2673],{2673:function(a,e,p){a.exports=p.p+"static/media/DigitalMicrometer.3d77430bfeaa8ad323ac.jpg"}}]);

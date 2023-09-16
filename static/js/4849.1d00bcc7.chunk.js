@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[4849],{4849:function(p,a,t){p.exports=t.p+"static/media/PartingCutter.a4f1d928a1310b2006c2.jpg"}}]);

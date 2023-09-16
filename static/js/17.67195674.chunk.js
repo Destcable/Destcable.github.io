@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[17],{5017:function(p,e,n){p.exports=n.p+"static/media/AutomaticLongitudinalTurning.486d53beb91010dc5f0e.png"}}]);

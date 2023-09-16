@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[473],{4473:function(p,a,c){p.exports=c.p+"static/media/TurningAndScrewCutting.1d65acfc0382ba380f5f.jpg"}}]);
