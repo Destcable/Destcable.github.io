@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[4325],{4325:function(p,e,s){p.exports=s.p+"static/media/ColletChuck.72273474783e38b31924.jpg"}}]);

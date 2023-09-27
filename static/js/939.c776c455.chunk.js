@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[939],{939:function(e,p,a){e.exports=a.p+"static/media/ThreeJawChuck.22e3b6473e12c6b934e2.jpg"}}]);

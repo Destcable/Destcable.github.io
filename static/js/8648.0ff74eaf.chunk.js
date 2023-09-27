@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8648],{8648:function(e,p,s){e.exports=s.p+"static/media/\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043b\u044c\u043d\u044b\u0439 \u0444\u0440\u0435\u0437\u0435\u0440\u043d\u044b\u0439 \u0441\u0442\u0430\u043d\u043e\u043a.42c095e0e2681494865e.jpeg"}}]);

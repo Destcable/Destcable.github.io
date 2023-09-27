@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8552],{8552:function(p,e,t){p.exports=t.p+"static/media/BoringCutter.2b62441573d5726f3eb0.jpg"}}]);

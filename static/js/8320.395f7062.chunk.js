@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[8320],{8320:function(e,p,a){e.exports=a.p+"static/media/CaliberBracket.18c23a217150dcc1dbeb.jpg"}}]);

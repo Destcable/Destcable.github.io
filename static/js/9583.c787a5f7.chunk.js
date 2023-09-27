@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[9583],{9583:function(a,p,e){a.exports=e.p+"static/media/PassingCutter.95e3fa79cd2d8aa5aa67.jpg"}}]);

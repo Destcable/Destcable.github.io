@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[6322],{6322:function(p,e,c){p.exports=c.p+"static/media/Calipers.e4b771c618ccb55ff838.jpeg"}}]);

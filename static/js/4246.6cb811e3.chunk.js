@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkmy_app=self.webpackChunkmy_app||[]).push([[4246],{4246:function(e,p,t){e.exports=t.p+"static/media/Lunette.e240194b5ac5ded7b8b7.jpg"}}]);
